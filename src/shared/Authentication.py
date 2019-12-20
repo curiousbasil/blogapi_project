@@ -1,4 +1,3 @@
-# src/shared/Authentication
 import jwt
 import os
 import datetime
